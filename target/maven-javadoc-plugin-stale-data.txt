@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/User/.m2/repository/net/objecthunter/exp4j/0.4.8/exp4j-0.4.8.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/programs/java_laba2/java-laba/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/programs/java_laba2/java-laba/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'java-laba 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/programs/java_laba2/java-laba/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'java-laba 1.0-SNAPSHOT API'
+ru.university
+C:\Users\User\.m2\repository\net\objecthunter\exp4j\0.4.8\exp4j-0.4.8.jar = 1762695125907
+C:\programs\java_laba2\java-laba\src\main\java = 1762694983083
+C:\programs\java_laba2\java-laba\target\reports\apidocs\allclasses-index.html = 1763392379026
+C:\programs\java_laba2\java-laba\target\reports\apidocs\allclasses.html = 1763392379076
+C:\programs\java_laba2\java-laba\target\reports\apidocs\allpackages-index.html = 1763392379036
+C:\programs\java_laba2\java-laba\target\reports\apidocs\constant-values.html = 1763392378805
+C:\programs\java_laba2\java-laba\target\reports\apidocs\deprecated-list.html = 1763392379068
+C:\programs\java_laba2\java-laba\target\reports\apidocs\element-list = 1763392378762
+C:\programs\java_laba2\java-laba\target\reports\apidocs\help-doc.html = 1763392379119
+C:\programs\java_laba2\java-laba\target\reports\apidocs\index-all.html = 1763392379004
+C:\programs\java_laba2\java-laba\target\reports\apidocs\index.html = 1763392379107
+C:\programs\java_laba2\java-laba\target\reports\apidocs\member-search-index.js = 1763392379000
+C:\programs\java_laba2\java-laba\target\reports\apidocs\member-search-index.zip = 1763392379000
+C:\programs\java_laba2\java-laba\target\reports\apidocs\overview-tree.html = 1763392378887
+C:\programs\java_laba2\java-laba\target\reports\apidocs\package-search-index.js = 1763392378984
+C:\programs\java_laba2\java-laba\target\reports\apidocs\package-search-index.zip = 1763392378992
+C:\programs\java_laba2\java-laba\target\reports\apidocs\script.js = 1763392379135
+C:\programs\java_laba2\java-laba\target\reports\apidocs\search.js = 1763392379148
+C:\programs\java_laba2\java-laba\target\reports\apidocs\stylesheet.css = 1763392379132
+C:\programs\java_laba2\java-laba\target\reports\apidocs\type-search-index.js = 1763392378996
+C:\programs\java_laba2\java-laba\target\reports\apidocs\type-search-index.zip = 1763392378996
